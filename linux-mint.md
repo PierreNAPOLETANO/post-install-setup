@@ -3,9 +3,9 @@
 1. Mettre à jour et redemarrer le système d'exploitation
 
 2. Installer Git <br>
-    `sudo apt-get install git <br>
-    git config --global user.name "John Doe" <br>
-    git config --global user.email johndoe@example.com`
+    `sudo apt-get install git` <br>
+    `git config --global user.name "John Doe"` <br>
+    `git config --global user.email johndoe@example.com`
  
 4. Installer PHP et Composer via la CLI de Laravel <br>
     `/bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"`
