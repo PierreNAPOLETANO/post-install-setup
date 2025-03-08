@@ -7,18 +7,20 @@
  3. Installer curl et redemarrer
 
  4. Installer Git <br>
-    `sudo apt-get install git`
+    `sudo apt-get install git
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com`
  
- 5. Installer PHP et Composer via la CLI de Laravel <br>
+ 6. Installer PHP et Composer via la CLI de Laravel <br>
     `/bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"`
     Redémarrer le terminal
 
- 6. Installer NodeJS <br>
+ 7. Installer NodeJS <br>
     `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash` <br>
     Redémarrer le terminal <br>
     `nvm install 22`
 
- 7. Installer MariaDB <br>
+ 8. Installer MariaDB <br>
     `sudo apt install mariadb-server` <br>
     `sudo mysql_secure_installation` <br>
     `sudo mariadb` <br>
@@ -26,8 +28,8 @@
     `FLUSH PRIVILEGES;` <br>
     `exit`
 
- 8. Installer VSCode
+ 9. Installer VSCode
 
- 9. Installer "Extensions" via Snap
+ 10. Installer "Extensions" via Snap
 
- 10. Installer DashToPanel via un navigateur
+ 11. Installer DashToPanel via un navigateur
