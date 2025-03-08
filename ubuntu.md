@@ -7,8 +7,8 @@
  3. Installer curl et redemarrer
 
  4. Installer Git <br>
-    `sudo apt-get install git
-    git config --global user.name "John Doe"
+    `sudo apt-get install git <br>
+    git config --global user.name "John Doe" <br>
     git config --global user.email johndoe@example.com`
  
  6. Installer PHP et Composer via la CLI de Laravel <br>
