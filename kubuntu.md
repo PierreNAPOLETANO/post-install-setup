@@ -1,4 +1,4 @@
-# Ubuntu
+# Kubuntu
 
  1. Mettre à jour et redemarrer le système d'exploitation <br>
     `sudo apt update` <br>
