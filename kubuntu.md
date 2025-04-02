@@ -1,15 +1,14 @@
 # Ubuntu
 
  1. Mettre à jour et redemarrer le système d'exploitation <br>
-    `sudo apt update
-    sudo apt upgrade`
+    `sudo apt update` <br>
+    `sudo apt upgrade`
 
- 3. Faire un `sudo snap refresh` et redemarrer
+ 3. Faire un `sudo snap refresh`
 
- 4. Installer curl et redemarrer
+ 4. Installer curl `sudo apt install curl` 
 
- 5. Installer Git <br>
-    `sudo apt-get install git` <br>
+ 5. Configurer Git <br>
     `git config --global user.name "John Doe"` <br>
     `git config --global user.email johndoe@example.com`
  
@@ -31,7 +30,3 @@
     `exit`
 
  9. Installer VSCode
-
- 10. Installer "Extensions" via Snap
-
- 11. Installer DashToPanel via un navigateur
