@@ -59,4 +59,8 @@ Redémarrer le terminal
     exit
     ```
 19. Installer Vscode
-    `sudo pacman -S code`
+    `sudo pacman -S code` Official Arch Linux open-source release  
+    ou  
+    `sudo pacman -S visual-studio-code-bin` Proprietary Microsoft-branded release, en mode AUR (FlatPack) uniquement  
+    ou   
+    `sudo pacman -S vscodium` Community open-source release, en mode AUR (FlatPack) uniquement  
