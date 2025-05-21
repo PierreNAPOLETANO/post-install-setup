@@ -18,8 +18,9 @@ Si pas de reseau filaire, activer le wi-fi
 Cette commande va vous aider à créer un fichier de configuration.   
 Les locales sont donc à ressaisir pour être intégrées dans le fichier de configuration.  
 
+    - Dans `Configuration du disque` -> `Partitionnement`, sélectionner `Utiliser une disposition de partition optimale par défaut` puis sélectionner votre DD, puis filesystem `ext4` et `/home` sur une partition séparée.  
     - Dans `Profil`, choisir `Desktop` comme profil principal d'installation.  
-    Choisir `Xfce-4` et `i3-wm` comme gestionnaire de fenêtre.  
+    Choisir `GNOME` ou `Xfce-4` comme gestionnaire de fenêtre. Ajouter `i3-wm` en plus si vous souhaitez le configurer et l'expérimenter. NE PAS L'INSTALLER SEUL !!!!    
     Sélectionner pilotes `AMD` ou `NVIDIA` suivant votre carte graphique.  
     Si carte NVIDIA trop vieille, ne pas sélectionner driver NVIDIA, laisser driver par defaut du système.  
     - Dans `Audio`, choisir `pipewire`.  
