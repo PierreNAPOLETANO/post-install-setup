@@ -6,7 +6,7 @@ Si pas de reseau filaire, activer le wi-fi
 
     a. Lancer l'utilitaire **iwctl** avec la commande `iwctl`, un nouveau prompt apparait  
     b. Lancer `device list` pour avoir la liste des device. On utilisera **wlanO** comme exemple.  
-    c. Activer le device avec `device wlan0 set-property Powered on`  
+    c. Activer le device avec `device wlan0 set-property Powered on`. Si la commande renvoie une erreur, démarrer l'adaptateur avant le device avec `adapter phy0 set-property Powered on`, si votre adapter est bien `phy0`. Le nom est à adapter.  
     d. Faire un scan du réseau avec `station wlan0 scan` (la commande ne renvoie rien)  
     e. Lister les réseaux scannés précédemment avec `station wlan0 get-networks`  
     f. Se connecter au réseaux SSID avec `station wlan0 connect SSID`  
