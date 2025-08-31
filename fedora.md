@@ -1,5 +1,8 @@
 # Fedora
 
+## Pas besoin d'installer:
+## - Git
+
 1. Mise à jour de l'OS et redemarrer
    
 2. Suivre les instructions de cette vidéo
