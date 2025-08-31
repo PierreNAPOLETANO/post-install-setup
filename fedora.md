@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=Sn-32PM8Vlo
 3. Installer PIP 3
    `sudo dnf install python3-pip`
 
-4. Installer MariaDB
+5. Installer MariaDB
 
-5. installer Visual Studio Code
+6. installer Node JS
+
+7. installer Visual Studio Code
