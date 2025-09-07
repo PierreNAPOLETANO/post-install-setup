@@ -1,6 +1,7 @@
 # Linux Mint
 
-1. Mettre à jour et redemarrer le système d'exploitation
+1. Mettre à jour et redemarrer le système d'exploitation <br>
+https://www.numetopia.fr/comment-mettre-a-niveau-vers-linux-mint-22-wilma/
 
 2. Installer Git <br>
     `sudo apt-get install git` <br>
