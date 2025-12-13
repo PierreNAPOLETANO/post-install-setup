@@ -25,7 +25,7 @@ sources
 
 3. Installer MariaDB (https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-debian-11) <br>
 `sudo dnf install mariadb-server` <br>
-`sudo systemctl enable mariadb` <br>
+`sudo systemctl start mariadb` <br>
 `sudo mysql_secure_installation` <br>
 `sudo mariadb`
 
