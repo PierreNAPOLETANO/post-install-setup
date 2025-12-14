@@ -34,3 +34,5 @@ sources
 5. Installer PHP (https://laravel.com/docs/12.x)
 
 6. Installer Visual Studio Code (https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions)
+
+7. Installer pip : `sudo dnf install python3-pip`
