@@ -12,11 +12,4 @@
 
 5. Installer PHP et Composer via la CLI de Laravel : https://laravel.com/docs/13.x/installation
 
-6. Installer NodeJS : https://nodejs.org/en/download Doe"
-git config --global user.email johndoe@example.com
-
-4. Installer MariaDB : https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-debian-11
-
-5. Installer PHP et Composer via la CLI de Laravel : https://laravel.com/docs/13.x/installation
-
 6. Installer NodeJS : https://nodejs.org/en/download
