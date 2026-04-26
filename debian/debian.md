@@ -4,7 +4,7 @@
 
 2. Installer curl : sudo apt install curl
 
-3. Installer Git : sudo apt-get install git
+3. Installer Git : https://git-scm.com/install/linux
  
 4. Installer PHP et Composer via la CLI de Laravel : https://laravel.com/docs/13.x/installation
 
